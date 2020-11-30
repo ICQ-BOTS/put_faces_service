@@ -1,0 +1,17 @@
+__pycache__
+__pycache__/**
+*.pyc
+for_tarantool
+for_tarantool/**
+
+statistics
+statistics/**
+config.ini
+logging.ini
+
+postcards
+
+env
+models
+models/**
+models.zip

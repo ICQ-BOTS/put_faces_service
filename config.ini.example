@@ -1,0 +1,13 @@
+[main]
+host=127.0.0.1
+port=1516
+processes_count=3
+trash_chat=683097867@chat.agent
+
+[icq_bot]
+owner=xxxxxxxxx
+poll_time_s=300
+task_timeout_s=3600
+request_timeout_s=7
+task_max_len=1000000000
+
