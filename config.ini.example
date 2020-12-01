@@ -2,7 +2,7 @@
 host=127.0.0.1
 port=1516
 processes_count=3
-trash_chat=683097867@chat.agent
+trash_chat=*********@chat.agent
 
 [icq_bot]
 owner=xxxxxxxxx
